@@ -1,0 +1,2 @@
+<link href="<?php echo e(mix('/css/admin.css')); ?>" rel="stylesheet">
+<?php /**PATH D:\xampp\htdocs\bbb-lb\vendor\brackets\admin-ui\src/../resources/views/admin/partials/main-styles.blade.php ENDPATH**/ ?>

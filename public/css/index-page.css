@@ -1,0 +1,36 @@
+.bbb-logo {
+    max-height: 100px;
+    width: auto;
+    resize: both;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.moodle-logo {
+    max-height: 60px;
+    width: auto;
+    resize: both;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.hou-logo {
+    max-height: 200px;
+    width: auto;
+    resize: both;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+#logo {
+    margin-bottom: 20px;
+}
+
+#logo div {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+

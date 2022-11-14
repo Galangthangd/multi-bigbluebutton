@@ -1,0 +1,2 @@
+foreign key
+$table->foreign('country_id')->references('id')->on('_z_country');
